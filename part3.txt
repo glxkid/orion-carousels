@@ -1,0 +1,41 @@
+=== c15-ready-checklist
+caption: Is your business ready for AI agents? ✅~~A 5-point check you can do in two minutes.~~Follow @orion.agencies.
+tags: #AI #AINews #ArtificialIntelligence #AIReadiness #SmallBusiness #AIAgents #Automation #Checklist
+cover ;; Checklist ;; Is your business|*ready*|for agents? ;; Five checks. Two minutes.
+list ;; 1-2 ;; Check these ;;  ;;  ;; 🔁=A repeatable task=Same steps most weeks. ;; 📂=Data you can access=In email, sheets or a CRM.
+list ;; 3-4 ;; And these ;;  ;;  ;; 📏=A clear definition of good=You know a right answer when you see it. ;; 👤=A person who reviews=Someone owns the approval.
+point ;; 5 ;; A *metric.* ;; Hours saved, leads found, replies sent. Pick one before you start. ;; If you can't measure it, you can't improve it. ;; ⏱️ Hours/📞 Leads/✉️ Replies ;; 
+=== c16-anatomy
+caption: The anatomy of an AI workflow. 🧬~~Trigger, data, agent, approval, action. Five parts, every time.~~Follow @orion.agencies.
+tags: #AI #AINews #ArtificialIntelligence #AIWorkflow #AIAgents #Automation #LearnAI #NoCode
+cover ;; Anatomy ;; The anatomy|of an *AI|workflow.* ;; Five parts, every time.
+list ;; Parts 1-2 ;; Start ;;  ;;  ;; ⚡=Trigger=What kicks it off: a time, an email, a new record. ;; 🗄️=Data=What it reads to do the job.
+list ;; Parts 3-4 ;; Middle ;;  ;;  ;; 🤖=Agent=Decides what to do with the data. ;; ✅=Approval=A person checks the output.
+point ;; Part 5 ;; The *action.* ;; Send, save or update. Only after approval. ;; Design the approval step first. ;; 📤 Send/💾 Save/🔄 Update ;; 
+=== c17-glossary
+caption: AI terms in plain English. 📖~~Stop nodding along. Here's what they actually mean.~~Follow @orion.agencies.
+tags: #AI #AINews #ArtificialIntelligence #AIExplained #LearnAI #AIGlossary #AIForBeginners #LLM
+cover ;; Glossary ;; AI terms,|in *plain|English.* ;; Stop nodding along.
+list ;; A-L ;; Know these ;;  ;;  ;; 🧠=LLM=A model trained on lots of text to predict and generate language. ;; 🪙=Token=A small chunk of text the model reads and writes.
+list ;; M-P ;; And these ;;  ;;  ;; 📎=Context window=How much the model can keep in mind at once. ;; ✍️=Prompt=The instructions you give it.
+list ;; R-Z ;; Finally ;;  ;;  ;; 🔎=RAG=Letting the model look things up before it answers. ;; 🤖=Agent=A model that plans and uses tools to reach a goal.
+=== c18-mistakes
+caption: 4 mistakes businesses make with AI. ⚠️~~Avoid these and you're ahead of most.~~Follow @orion.agencies.
+tags: #AI #AINews #ArtificialIntelligence #AIMistakes #SmallBusiness #AIStrategy #Automation #AIForBusiness
+cover ;; Avoid ;; 4 AI mistakes|businesses *make.* ;; Don't be one of them.
+list ;; 1-2 ;; Mistakes ;;  ;;  ;; 🎯=No clear goal=“Use AI” isn't a goal. Name the task. ;; 🌊=Automating everything=Start with one workflow.
+list ;; 3-4 ;; More mistakes ;;  ;;  ;; 🙈=No review step=Unchecked output eventually hurts you. ;; 📉=Not measuring=You can't tell if it worked.
+point ;; The fix ;; One task.|One owner.|*One metric.* ;; Pick a single repetitive task, give it an owner and measure it for a month. ;; Boring and focused wins. ;;  ;; S
+=== c19-why-now
+caption: Why now? ⏰~~Costs are falling, agents are getting identity, and the skills gap is wide open.~~Follow @orion.agencies.
+tags: #AI #AINews #ArtificialIntelligence #AIAgents #AIOpportunity #FutureOfWork #Automation #SmallBusiness
+cover ;; Opportunity ;; Why *now.* ;; Three shifts happening this week.
+point ;; Shift 1 ;; Costs are *falling.* ;; Claude Haiku 5.5 is 75% cheaper than Haiku 4.5. ;; Always-on agents are now affordable. ;; 📉 −75% ;; 
+point ;; Shift 2 ;; Agents get *identity.* ;; Personal Agent Protocol v0.1 lets agents sign in and declare scope. ;; Agent-to-business traffic is coming. ;; 🔑 Sign in ;; 
+point ;; Shift 3 ;; The skills gap is *open.* ;; Anthropic is putting $100M into training 10,000 engineers because implementation is scarce. ;; People who can build workflows are in demand. ;; 🎓 $100M ;; 
+=== c20-start-here
+caption: Start here. 👇~~One task, one workflow, one approval. That's how you begin with AI agents.~~Get the workflow from the reel at orionagencies.com and follow @orion.agencies.
+tags: #AI #AINews #ArtificialIntelligence #AIAgents #GetStarted #Automation #SmallBusiness #Orion
+cover ;; Start ;; Where to|*begin.* ;; One task. One workflow. One approval.
+list ;; The plan ;; In three steps ;;  ;;  ;; 1=Pick the task=Something you repeat every week. ;; 2=Build the workflow=Trigger, data, agent. ;; 3=Add approval=A person checks before it ships.
+point ;; Rule ;; Small first. ;; Win with one workflow, then add the next. ;; Momentum beats ambition. ;; 🎯 One task/✅ One approval ;; 
