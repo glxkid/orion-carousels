@@ -1,0 +1,53 @@
+=== c01-ai-weekly-oct9
+caption: This week in AI, in 60 seconds. 🗞️~~GPT-6 gets an interface, Claude Haiku 5.5 gets 75% cheaper, agents get an ID card, and more. Swipe for what each one means if you run a business.~~Save this, then follow @orion.agencies for AI news every week.
+tags: #AI #AINews #ArtificialIntelligence #OpenAI #Claude #Gemini #Mistral #AIAgents #BusinessAutomation
+cover ;; The AI weekly · Oct 9 ;; This week|in AI,|*in 60|seconds.* ;; Six moves that matter for anyone running a business.
+point ;; OpenAI ;; GPT-6 gets an|*interface.* ;; ChatGPT now builds tappable buttons, calculators and editable graphs right inside the chat. Free tiers got GPT-6 Luna on Thursday. ;; Chat is turning into software. Your customers will expect answers they can tap, not read. ;; 🔘 Buttons/🧮 Calculators/📈 Editable graphs ;; 
+stats ;; Anthropic ;; Claude Haiku 5.5|costs *75% less.* ;; Max and Team subscribers also got a monthly API credit to build new agents. ;; Running an agent all day just got cheap enough to run on every lead, every call, every record. ;; −75%=vs Haiku 4.5 pricing ;; ½=Sonnet 5.5 cache-read price
+stats ;; Google ;; Gemini 4 Argon|ships to *defenders|first.* ;; Fairwind Program defenders get it before paid API and Ultra. ;; The strongest models are being gated. Access is becoming the advantage. ;; 68%=on CWE-bench v1 ;; 🛡️=Finds, validates and fixes critical bugs on its own
+point ;; Sierra + Meta ;; Agents get|an *ID card.* ;; Personal Agent Protocol v0.1 is an open, OAuth-based standard. A customer's AI agent can sign in to your business and declare exactly what it's allowed to do. Walmart is backing it. ;; Soon customers' agents will show up at your door. Be ready to talk back. ;; 🔑 Sign in/📋 Declare scope/🤝 Open standard ;; 
+point ;; Anthropic ;; $100M to train|*10,000*|engineers. ;; The Claude Frontier Academy is built to produce people who can make AI actually work inside real businesses. ;; The bottleneck isn't the model anymore. It's people who can implement it. ;;  ;; 
+stats ;; Mistral ;; Large 4 is a|*trillion*|parameters. ;; Natively multimodal. Public preview is live and open weights are expected by the end of October. ;; Open models keep closing the gap. More options, lower prices. ;; 1T=total parameters ;; 49B=active at a time
+=== c02-cheap-agents
+caption: An agent that runs all day used to be a luxury. 📉~~Claude Haiku 5.5 costs 75% less than Haiku 4.5. Here's what that changes for a small business.~~Follow @orion.agencies for AI that actually ships.
+tags: #AI #AINews #ArtificialIntelligence #Claude #Anthropic #AIAgents #SmallBusiness #Automation
+cover ;; Pricing ;; AI just got|*75%*|cheaper. ;; What Claude Haiku 5.5 means for your business.
+stats ;; The number ;; Haiku 5.5 vs 4.5 ;; Cheaper tokens mean you can run an agent on every task, not just the big ones. ;;  ;; −75%=API price ;; ½=Sonnet 5.5 cache-read price
+list ;; What it unlocks ;; Work you couldn't|afford to *automate* ;;  ;;  ;; 📥=Every inbound lead=Read, score and draft a reply to all of them. ;; 📞=Every call=Summarize and log each one automatically. ;; 🗂️=Every record=Clean up your CRM without a human doing it.
+point ;; The catch ;; Cheap isn't|*free.* ;; Volume adds up fast. Set a budget per workflow and watch the usage in week one. ;; Cost control is part of the build, not an afterthought. ;; 💵 Budget per workflow/👀 Watch usage ;; 
+point ;; The move ;; Pick one task|you do *daily.* ;; Start with the repetitive thing that eats an hour. Automate that one first, then add more. ;; Small, boring and daily beats big and impressive. ;;  ;; 
+=== c03-agent-id
+caption: Soon your customers' AI agents will knock on your door. 🚪🤖~~The Personal Agent Protocol v0.1 lets an agent sign in and declare what it's allowed to do. Here's why that matters.~~Follow @orion.agencies.
+tags: #AI #AINews #ArtificialIntelligence #AIAgents #Meta #Sierra #OpenStandards #Automation
+cover ;; Agents ;; Agents get|an *ID card.* ;; The new standard that changes how customers reach you.
+list ;; What it is ;; Personal Agent|Protocol *v0.1* ;;  ;;  ;; 🔑=Sign in=Open, OAuth-based login for AI agents. ;; 📋=Declare scope=The agent states exactly what it may do. ;; 🤝=Open standard=Backed by Sierra, Meta and Walmart.
+point ;; Why it matters ;; Customers will send|*their own* agent. ;; Instead of calling you, someone's agent books, asks and compares on their behalf. ;; If your business can't answer an agent, you're invisible to it. ;;  ;; 
+list ;; Get ready ;; Three things|to do *now* ;;  ;;  ;; 1=Publish clear info=Hours, prices, services in plain text. ;; 2=Make booking easy=A link an agent can complete. ;; 3=Keep a human in charge=Review what agents ask for.
+=== c04-chat-ui
+caption: Chat is turning into software. 🔘🧮📈~~GPT-6 now builds buttons, calculators and editable graphs inside ChatGPT. What that means for how you talk to customers.~~Follow @orion.agencies.
+tags: #AI #AINews #ArtificialIntelligence #GPT6 #OpenAI #ChatGPT #CustomerExperience #Automation
+cover ;; OpenAI ;; Chat gets|an *interface.* ;; GPT-6 builds tools right inside the conversation.
+list ;; What's new ;; Inside the chat ;;  ;; Free tiers got GPT-6 Luna on Thursday. ;; 🔘=Buttons=Tap instead of type. ;; 🧮=Calculators=Live numbers in the reply. ;; 📈=Editable graphs=Change an input, the chart moves.
+point ;; The shift ;; Answers become|*things you use.* ;; A reply is no longer a paragraph. It's a small tool made for that question. ;; People will expect to tap, not read. ;;  ;; 
+point ;; For you ;; Rethink your|*support flow.* ;; Quotes, pricing, booking: ask what could be a tool instead of a text wall. ;; Start with the question you answer ten times a week. ;; 💬 Quotes/📅 Booking/💲 Pricing ;; 
+=== c05-implementation-gap
+caption: The bottleneck isn't the model anymore. It's people who can make AI work inside real businesses. 🧠~~Anthropic is putting $100M into training 10,000 engineers through the Claude Frontier Academy.~~Follow @orion.agencies.
+tags: #AI #AINews #ArtificialIntelligence #Anthropic #Claude #AIJobs #LearnAI #FutureOfWork
+cover ;; Skills ;; The AI gap|isn't *models.* ;; It's people who can implement them.
+stats ;; The news ;; Claude Frontier Academy ;; Built to produce people who can make AI work inside real businesses. ;;  ;; $100M=committed to training ;; 10,000=engineers
+point ;; The signal ;; Implementation|is the *scarce skill.* ;; Anyone can open a chatbot. Few can wire AI into a real workflow with data, approvals and results. ;; The money is moving to the people who connect the dots. ;;  ;; 
+list ;; Learn this ;; Skills worth building ;;  ;;  ;; 🔌=Connect tools=APIs, apps and data into one flow. ;; ✅=Design approvals=Where a human steps in. ;; 📊=Measure results=Prove the workflow earns its keep.
+=== c06-gated-models
+caption: The strongest AI models are being gated. 🔒~~Gemini 4 Argon ships to vetted cyber defenders first. Access is becoming the advantage.~~Follow @orion.agencies.
+tags: #AI #AINews #ArtificialIntelligence #Gemini #Google #Cybersecurity #AIModels #AIAccess
+cover ;; Google ;; Gemini 4 Argon|ships to *defenders|first.* ;; Why the best models are getting gated.
+stats ;; The facts ;; Gemini 4 Argon ;; Fairwind Program defenders get it before paid API and Ultra. ;;  ;; 68%=on CWE-bench v1 ;; 🛡️=Finds, validates and fixes critical bugs
+point ;; The pattern ;; Power is|released *in stages.* ;; The most capable models reach vetted users first, then everyone else. ;; Being early and trusted gets you the good tools sooner. ;;  ;; 
+point ;; What to do ;; Stay on|the *waitlists.* ;; Apply for early access programs, keep your accounts in good standing, and build workflows that swap models easily. ;; Don't tie your business to one model. ;; 📝 Apply early/🔁 Stay flexible ;; 
+=== c07-open-models
+caption: A trillion parameters, and open weights are coming. 🔓~~Mistral Large 4: 1T total, 49B active, natively multimodal. Public preview is live.~~Follow @orion.agencies.
+tags: #AI #AINews #ArtificialIntelligence #Mistral #OpenSource #LLM #AIModels #OpenWeights
+cover ;; Mistral ;; Large 4 is a|*trillion*|parameters. ;; And open weights are on the way.
+stats ;; The specs ;; Mistral Large 4 ;; Natively multimodal. Public preview is live. ;;  ;; 1T=total parameters ;; 49B=active at a time
+point ;; Open weights ;; Expected by|*end of October.* ;; Open weights mean you can run the model yourself instead of only renting it. ;; More choice, more leverage on price. ;;  ;; 
+point ;; Why you care ;; Competition|*lowers prices.* ;; When open models close the gap, closed models have to compete on cost and features. ;; Keep your stack swappable and let the market work for you. ;; 💸 Lower cost/🔁 More options ;; 
