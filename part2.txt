@@ -1,0 +1,51 @@
+=== c08-five-tasks
+caption: 5 tasks you can hand to an AI agent this week. 🤖~~Save this and start with the one that eats the most of your time.~~Follow @orion.agencies for workflows that ship.
+tags: #AI #AINews #ArtificialIntelligence #AIAgents #Automation #SmallBusiness #Productivity #Workflow
+cover ;; Automate ;; 5 tasks|to hand to|*an AI agent.* ;; Start this week. Pick one.
+list ;; Tasks 1-2 ;; Start here ;;  ;;  ;; 📬=Inbox triage=Sort, label and draft replies for review. ;; 🔎=Lead research=Find and qualify prospects from public data.
+list ;; Tasks 3-4 ;; Then add ;;  ;;  ;; 🗓️=Scheduling=Book, confirm and remind automatically. ;; 🧾=Data entry=Move info from emails and PDFs into your system.
+list ;; Task 5 ;; And finally ;; A person approves everything before it goes out. ;;  ;; 📊=Weekly report=Pull the numbers and write the summary for you.
+=== c09-agent-vs-chatbot
+caption: Chatbot, automation, or agent? 🤔~~They aren't the same thing. Here's the difference in 30 seconds.~~Follow @orion.agencies.
+tags: #AI #AINews #ArtificialIntelligence #AIAgents #Chatbot #Automation #LearnAI #AIExplained
+cover ;; Explained ;; Chatbot.|Automation.|*Agent.* ;; What's the difference?
+point ;; Chatbot ;; It *answers.* ;; You ask, it replies. It doesn't do anything outside the conversation. ;;  ;; 💬 Talks ;; 
+point ;; Automation ;; It *follows rules.* ;; If this happens, do that. Reliable, but it can't handle anything unexpected. ;;  ;; ⚙️ If → then ;; 
+point ;; Agent ;; It *decides* and acts. ;; Given a goal, it plans the steps, uses tools and adapts when something changes. ;; That's the one that finds your next customers. ;; 🎯 Goal/🧰 Tools/🔄 Adapts ;; 
+=== c10-human-approves
+caption: Our rule: a person approves everything. ✅~~Agents do the work. Humans make the call. Here's why that's the setup that scales.~~Follow @orion.agencies.
+tags: #AI #AINews #ArtificialIntelligence #AIAgents #HumanInTheLoop #ResponsibleAI #Automation #AIStrategy
+cover ;; How we build ;; A person|*approves*|everything. ;; Why human-in-the-loop wins.
+list ;; The flow ;; Agent works. You decide. ;;  ;;  ;; 🤖=Agent prepares=Finds, drafts, organizes. ;; 👤=You review=Approve, edit or reject. ;; 🚀=Then it ships=Nothing goes out unapproved.
+point ;; Why ;; Trust is|the *product.* ;; One bad automated message to a customer costs more than the time it saved. ;; Speed without control isn't worth it. ;;  ;; 
+point ;; The result ;; Fast *and* safe. ;; You get 90% of the work done and keep 100% of the control. ;; That's how agents get adopted instead of switched off. ;; ⚡ Fast/🛡️ Safe ;; 
+=== c11-find-customers
+caption: How an agentic workflow finds your next customers. 🔎~~It reads a public record every morning and hands your team a list. A person approves everything.~~Get the workflow from the reel. Follow @orion.agencies.
+tags: #AI #AINews #ArtificialIntelligence #LeadGeneration #AIAgents #Sales #Automation #SmallBusiness
+cover ;; The workflow ;; How AI finds|your next|*customers.* ;; The morning routine, step by step.
+list ;; Steps 1-2 ;; Every morning ;;  ;;  ;; 1=Read the record=A public source updates daily. ;; 2=Spot the signal=New owner, new permit, new filing.
+list ;; Steps 3-4 ;; Then ;;  ;;  ;; 3=Enrich=Add the contact and business info. ;; 4=Draft the outreach=Written for each prospect.
+point ;; Step 5 ;; A person *approves.* ;; Your team gets a clean list and drafts to review before anything is sent. ;; You spend time closing, not searching. ;; 👤 Review/✅ Approve/📤 Send ;; 
+=== c12-speed-to-lead
+caption: Speed wins deals. ⚡~~The first business to reply usually gets the job. An agent can answer in seconds, and a person approves it.~~Follow @orion.agencies.
+tags: #AI #AINews #ArtificialIntelligence #SpeedToLead #Sales #AIAgents #SmallBusiness #Automation
+cover ;; Sales ;; The first to|reply *wins.* ;; Why speed to lead matters.
+point ;; The problem ;; Leads go|*cold fast.* ;; Every hour you wait, the buyer talks to someone else. ;; The fastest decent reply beats the slowest perfect one. ;;  ;; 
+list ;; The fix ;; Agent-assisted reply ;;  ;;  ;; 📥=Lead comes in=Form, DM or call. ;; ✍️=Draft in seconds=Personalized to what they asked. ;; 👤=You approve=One tap, then it sends.
+point ;; Start small ;; Automate the *first* reply. ;; You don't need to automate the whole sales process. Fix the first response. ;; Small change, real revenue. ;; ⏱️ Seconds not hours ;; 
+=== c13-myths
+caption: 4 myths about AI agents. 🧱~~Swipe to see what's true and what's hype.~~Follow @orion.agencies.
+tags: #AI #AINews #ArtificialIntelligence #AIAgents #AIMyths #LearnAI #Automation #AIForBusiness
+cover ;; Myths ;; 4 myths|about *AI agents.* ;; What's true and what's hype.
+point ;; Myth 1 ;; “They'll run|the business *alone.*” ;; Today's agents need goals, guardrails and review. They work best with a person approving. ;; Think assistant, not replacement. ;;  ;; S
+point ;; Myth 2 ;; “You need to|*code* to use them.” ;; Many workflows are built from existing tools and clear instructions. The skill is in the design. ;; Process thinking matters more than syntax. ;;  ;; S
+point ;; Myth 3 ;; “It's only for|*big companies.*” ;; Falling prices make agents practical for a solo owner with one repetitive task. ;; Start with one task, not a department. ;;  ;; S
+point ;; Myth 4 ;; “Set it and|*forget it.*” ;; Workflows need monitoring and tuning, like any employee you've just hired. ;; Check results weekly. ;;  ;; S
+=== c14-learn-ai-30
+caption: Learn AI in 30 days. 📆~~A simple path from zero to building your first workflow.~~Save it. Follow @orion.agencies.
+tags: #AI #AINews #ArtificialIntelligence #LearnAI #AIForBeginners #AIRoadmap #Automation #Upskill
+cover ;; Roadmap ;; Learn AI|in *30 days.* ;; From zero to your first workflow.
+list ;; Week 1 ;; Use it daily ;;  ;;  ;; 💬=Chat with a model=Ask real work questions every day. ;; 📝=Keep a prompt log=Save what works.
+list ;; Week 2 ;; Learn the pieces ;;  ;;  ;; 🧩=Prompts and context=Give better inputs. ;; 🔌=Tools and data=What an agent can connect to.
+list ;; Week 3 ;; Build one ;;  ;;  ;; 🛠️=Pick one task=Something you do weekly. ;; 🔁=Make it repeatable=Same steps, same result.
+list ;; Week 4 ;; Ship it ;;  ;;  ;; 👤=Add a review step=A person approves. ;; 📈=Measure the time saved=Then pick the next task.
