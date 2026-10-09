@@ -1,0 +1,29 @@
+name: render-slides
+on:
+  push:
+    paths: ['gen.py','style.css','carousels.json','.github/workflows/render.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fonts
+        run: |
+          sudo apt-get update -y && sudo apt-get install -y fonts-noto-color-emoji unzip
+          curl -sL -o inter.zip https://github.com/rsms/inter/releases/download/v4.0/Inter-4.0.zip
+          mkdir -p ~/.fonts inter && unzip -oq inter.zip -d inter
+          find inter -name '*.ttf' -exec cp {} ~/.fonts/ \;
+          fc-cache -f && fc-list | grep -ci 'Inter Display' || true
+      - name: Render
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+          python gen.py
+      - name: Commit images
+        run: |
+          git config user.name orion-bot; git config user.email bot@orionagencies.com
+          git add img && git commit -m 'Render slides [skip ci]' || echo nothing
+          git push
