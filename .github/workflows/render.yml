@@ -1,7 +1,7 @@
 name: render-slides
 on:
   push:
-    paths: ['gen.py','style.css','carousels.json','.github/workflows/render.yml']
+    paths: ['gen.py','style.css','part*.txt','dsl.py','.github/workflows/render.yml']
   workflow_dispatch:
 permissions:
   contents: write
@@ -21,6 +21,7 @@ jobs:
         run: |
           pip install playwright
           python -m playwright install --with-deps chromium
+          python dsl.py
           python gen.py
       - name: Commit images
         run: |
